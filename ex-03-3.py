@@ -1,4 +1,4 @@
-#python program to dispaly file avialiable in current directory
+#python program to dispaly file avaliable in current directory
 
 import os
 #get current working directory
